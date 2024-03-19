@@ -8,10 +8,10 @@ function toggleMode(){
     const img = document.querySelector("#profile img");
     //substituindo a imagem
     if (html.classList.contains('light')) {
-        img.setAttribute("src", "./assets/avatar-light.png");
+        img.setAttribute("src", "./assets/bruce-wayne.png");
         img.setAttribute("alt", "Foto de Mayk Brito sorrindo, usando óculos escuro e camisa preta, barba e fundo azul e roxo.");
     } else {
-        img.setAttribute("src", "./assets/avatar.png");
+        img.setAttribute("src", "./assets/batman.png");
         img.setAttribute("alt", "Foto de Mayk Brito sorrindo, usando óculos e camisa preta, barba e fundo amarelo.");
     }
 }

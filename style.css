@@ -41,7 +41,8 @@ body *{
 
 #app{
     margin: 5.6rem auto 0rem;
-    width: 36rem;
+    width: 100%;
+    max-width: 58.8rem;
 }
 
 
@@ -53,6 +54,7 @@ body *{
 #profile img{
     /* height: 11.2rem; */
     width: 11.2rem;
+    border-radius: 999rem;
 }
 
 #profile p{
