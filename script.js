@@ -9,9 +9,9 @@ function toggleMode(){
     //substituindo a imagem
     if (html.classList.contains('light')) {
         img.setAttribute("src", "./assets/bruce-wayne.png");
-        img.setAttribute("alt", "Foto de Mayk Brito sorrindo, usando óculos escuro e camisa preta, barba e fundo azul e roxo.");
+        img.setAttribute("alt", "Foto do Ben Affleck vestido com um casaco interpretando o Bruce Wayne");
     } else {
         img.setAttribute("src", "./assets/batman.png");
-        img.setAttribute("alt", "Foto de Mayk Brito sorrindo, usando óculos e camisa preta, barba e fundo amarelo.");
+        img.setAttribute("alt", "Foto do Batman do Ben Affleck sem a máscara");
     }
 }
