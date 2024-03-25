@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o meu projeto com algumas alterações, online](https://github.com/Matheuz-cmd/projeto-Rocketseat)
+- [Acesse o meu projeto com algumas alterações, online](https://matheuz-cmd.github.io/projeto-Rocketseat)
 
 - [Assistir aulas da Rocketseat](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
